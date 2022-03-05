@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpeg",
+        "alt": "Cappadocia",
+        "name": "Cappadocia",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-2.jpeg",
+        "alt": "Fontana di Trevi",
+        "name": "Fontana di Trevi",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-3.jpeg",
+        "alt": "Tour Eiffel",
+        "name": "Tour Eiffel",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-4.jpeg",
+        "alt": "Mount Fuji",
+        "name": "Mount Fuji",
+        "button": "View Destination"
+    }
+]
